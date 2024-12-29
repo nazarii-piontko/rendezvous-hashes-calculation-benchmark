@@ -1,0 +1,4 @@
+mmh3
+matplotlib
+numpy
+scipy
