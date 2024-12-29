@@ -17,8 +17,7 @@ The implementation focuses on 32-bit MurmurHash as the base hashing function whi
 
 - Comprehensive benchmarking of different hash combining methods
 - Analysis of key distribution properties
-- Statistical evaluation including standard deviation and skewness
-- Performance comparison between baseline and optimized approaches
+- Statistical evaluation
 - Visualization of distribution results
 
 ## Usage
